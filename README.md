@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaramDanialGit
 - 👀 I’m interested in Software, Guitar, Salsa, BJJ
 - 🌱 I’m currently learning how to interview better
-- 💞️ I’m looking for a JOB
+- 💞️ Open to work
 - 📫 How to reach me karamdanial31@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: there is no fun, only code
